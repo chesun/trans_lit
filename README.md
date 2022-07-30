@@ -1,4 +1,6 @@
 # hrt_lit
- A database of the scientific literature relevant to Gender Affirming Hormone Therapy for transgender people.
+ A database of the scientific literature on transgender health, transgender medicine, and other issues faced by transgender individuals. Includes literature on topics such as gender affirming hormone therapy, mental health, and gender affirming surgeries.
+ 
+ If you have papers you want to see that are not included in this repo, please create an issue or send me a message with the details and I will try to add the paper to the repo.
 
-Currently I am focusing on feminizing hormone therapy for transfeminine people, and hope to complement the great work from [Transfemscience](https://transfemscience.org). We would like to include research on masculinizing hormone therapy as well in the future, and would welcome and greatly appreciate collaborators if you would like to help us with the project. If you want any paper included please let me know!
+
